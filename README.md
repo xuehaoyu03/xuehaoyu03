@@ -2,7 +2,9 @@
 
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小余同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=if(you+%3D%3D+%27coming%27)+printf('Hello');小余同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+
+  
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -44,9 +46,6 @@
 
   <div align='center'>
 
-  <h2>
-    💪 Studying and Tools 🔧
-  </h2>
 
 
   <img src='https://skillicons.dev/icons?i=java,python,vue,spring,vscode,github,linux'>
